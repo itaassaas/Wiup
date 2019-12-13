@@ -1,0 +1,73 @@
+<resources>
+
+    <string name="app_name">WiUp</string>
+    <string name="tagline" translatable="false">Conexión Digital</string>
+
+    <string name="heading_top" translatable="false">Top</string>
+    <string name="heading_places">Lugares</string>
+
+    <string name="restaurant">Restaurante</string>
+    <string name="heading_nearest">Más cercano</string>
+    <string name="heading_near_places">Lugares</string>
+    <string name="heading_more">Más</string>
+
+    <string name="get_direction">Obtener las direcciones</string>
+    <string name="no_review">No hay revisión disponible</string>
+
+    <string name="navigation_label">Iniciar navegación</string>
+    <string name="distance_label">Distancia</string>
+    <string name="time_label">Tiempo</string>
+    <string name="petrol_label">Gasolina</string>
+    <string name="from_label">Desde</string>
+    <string name="to_label">A</string>
+
+    <string name="step_by_step">Paso a paso</string>
+    <string name="ar_navigation">"AR Navegación "</string>
+
+    <string name="radius_label">Área de cobertura</string>
+    <string name="radius_desc">El usuario puede aumentar el radio o cualquier área de búsqueda en una ubicación cercana, lo que también ayuda a encontrar lugares amplios</string>
+
+    <string name="hud_label">Ver HUD</string>
+    <string name="hud_desc">Habilítelo, si desea habilitar el modo de visualización Head up para la navegación paso a paso mientras conduce por la noche</string>
+
+    <string name="history_label">Historia reciente</string>
+    <string name="history_desc">Verifique su historial anterior, todos los datos de navegación se mostrarán en la pantalla del historial</string>
+
+    <string name="share_label">Compartir aplicación</string>
+    <string name="share_desc">El usuario puede compartir la aplicación con sus amigos y miembros de la familia para que también usen esta increíble aplicación</string>
+
+    <string name="rate_label">Calificar aplicacion</string>
+    <string name="rate_desc">Si encuentra que la aplicación es útil para usted o le ayuda de alguna manera, califique nuestra aplicación porque aumenta nuestro coraje</string>
+
+    <string name="remove_ad_label">Quitar anuncios</string>
+    <string name="remove_ad_desc">Si no le gustó la publicidad en la aplicación, también puede eliminarla apagándola</string>
+
+    <string name="ar_nav_label">"AR Navegación "</string>
+    <string name="ar_nav_desc">Habilite la navegación de realidad aumentada en la aplicación que proporciona una experiencia excelente al usuario y proporciona una nueva forma de navegación</string>
+
+    <string name="no_favourite_title">No hay favoritos</string>
+    <string name="no_favourite_tagline">No te gustó</string>
+
+    <string name="no_history_title">Ninguna ubicación</string>
+    <string name="no_history_tagline">No viajaste a ningún lado hasta ahora</string>
+
+    <string name="drizzling_warning">Está lloviznando ! Conduce con cuidado</string>
+    <string name="raining_warning">Está lloviendo ! Conduce con cuidado</string>
+    <string name="humid_warning">Día húmedo! Mantener refrigeración por aire acondicionado</string>
+
+    <string name="no_picture_label">Sin imagen</string>
+    <string name="no_picture_tagline">No hay imagen disponible en ese momento</string>
+
+    <string name="address_copied">Copiado exitosamente</string>
+    <string name="url_not_available">Enlace web no disponible</string>
+    <string name="phone_not_available">Número de teléfono no disponible</string>
+
+    <string name="taxi_tagline">¿Estás seguro de contratar un taxi?  para llegar a su destino?</string>
+    <string name="internet_tagline">Conexión lenta o nula a internet</string>
+
+    <string name="google_map_key" translatable="false">AIzaSyBFfNh8-qCSYRqg-EDgk6STGuL7e5jP5MQ</string>
+    <string name="admob_add_id" translatable="false">your_admob_ads_key</string>
+    <string name="kindly_select_location">Por favor revise su configuración de internet</string>
+
+
+</resources>
